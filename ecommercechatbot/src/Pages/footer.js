@@ -10,7 +10,7 @@ const Footer = () =>{
                 <i className="fab fa-facebook-f"></i>
                  </div> */}
                  <div className="copyright">
-                     Copyright &copy; 2020. AthenaSquare
+                     Copyright &copy; 2022. AthenaSquare
                  </div>
              </div>
         </footer>
